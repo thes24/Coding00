@@ -8,10 +8,8 @@
 
 <!-- Line -->
 ___
-
 <!-- Text Attributes -->
 Hello Everyone! This is my **first** *README.md* file using ~~markdone~~ MarkDown.
-
 <!-- Quote -->
 > HelloWorld!
 ___
@@ -41,7 +39,7 @@ ___
 - [ ] Markdown
 - [ ] Pretty
 - [x] Cool
-
+___
 <!-- Code -->
 This is the MarkDown codes I wrote
 
@@ -56,10 +54,8 @@ This is the MarkDown codes I wrote
 
 <!-- Line -->
 ___
-
 <!-- Text Attributes -->
 Hello Everyone! This is my **first** *README.md* file using ~~markdone~~ MarkDown.
-
 <!-- Quote -->
 > HelloWorld!
 ___
@@ -80,7 +76,7 @@ ___
 ![깜딱이야!](https://djpms9a1go7nf.cloudfront.net/prod/uploads/thumbnail/images/10043263/167100535142741_md.png)
 ___
 <!-- Table -->
-|Header|Description|
+|Header|Description1|Description2|
 |:--|--:|:--:|
 |Cell1|Cell2|Cell3|
 |Cell4|Cell5|Cell6|
@@ -89,4 +85,11 @@ ___
 - [ ] Markdown
 - [ ] Pretty
 - [x] Cool
+___
+<!-- Code -->
+This is the MarkDown codes I wrote
+
+```markdown
+> <Code>
+```
 ```
