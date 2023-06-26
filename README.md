@@ -26,7 +26,7 @@ ___
 3. 3
 ___
 <!-- Link -->
-Click [here](https://github.com/thes24/Coding00)
+Click [here for Coding00](https://github.com/thes24/Coding00)
 ___
 <!-- Image -->
 ![깜딱이야!](https://djpms9a1go7nf.cloudfront.net/prod/uploads/thumbnail/images/10043263/167100535142741_md.png)
@@ -45,7 +45,7 @@ ___
 <!-- Code -->
 This is the MarkDown codes I wrote
 
-'''markdown
+```markdown
 <!-- Heading -->
 # Heading 1
 ## Heading 2
@@ -74,7 +74,7 @@ ___
 3. 3
 ___
 <!-- Link -->
-Click [here](https://github.com/thes24/Coding00)
+Click [here for Coding00](https://github.com/thes24/Coding00)
 ___
 <!-- Image -->
 ![깜딱이야!](https://djpms9a1go7nf.cloudfront.net/prod/uploads/thumbnail/images/10043263/167100535142741_md.png)
@@ -89,4 +89,4 @@ ___
 - [ ] Markdown
 - [ ] Pretty
 - [x] Cool
-'''
+```
