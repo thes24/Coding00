@@ -32,7 +32,7 @@ ___
 ![깜딱이야!](https://djpms9a1go7nf.cloudfront.net/prod/uploads/thumbnail/images/10043263/167100535142741_md.png)
 ___
 <!-- Table -->
-|Header|Description|
+|Header|Description1|Description2|
 |:--|--:|:--:|
 |Cell1|Cell2|Cell3|
 |Cell4|Cell5|Cell6|
